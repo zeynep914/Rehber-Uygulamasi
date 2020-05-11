@@ -1,0 +1,14 @@
+C:\Users\sedo\source\repos\rehber\rehber\obj\Debug\rehber.csprojAssemblyReference.cache
+C:\Users\sedo\source\repos\rehber\rehber\obj\Debug\rehber.csproj.CoreCompileInputs.cache
+C:\Users\sedo\source\repos\rehber\rehber\bin\Debug\rehber.exe.config
+C:\Users\sedo\source\repos\rehber\rehber\bin\Debug\rehber.exe
+C:\Users\sedo\source\repos\rehber\rehber\bin\Debug\rehber.pdb
+C:\Users\sedo\source\repos\rehber\rehber\obj\Debug\rehber.exe
+C:\Users\sedo\source\repos\rehber\rehber\obj\Debug\rehber.pdb
+C:\Users\Zeynep\Desktop\rehber\rehber\bin\Debug\rehber.exe.config
+C:\Users\Zeynep\Desktop\rehber\rehber\bin\Debug\rehber.exe
+C:\Users\Zeynep\Desktop\rehber\rehber\bin\Debug\rehber.pdb
+C:\Users\Zeynep\Desktop\rehber\rehber\obj\Debug\rehber.csprojAssemblyReference.cache
+C:\Users\Zeynep\Desktop\rehber\rehber\obj\Debug\rehber.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\Desktop\rehber\rehber\obj\Debug\rehber.exe
+C:\Users\Zeynep\Desktop\rehber\rehber\obj\Debug\rehber.pdb
